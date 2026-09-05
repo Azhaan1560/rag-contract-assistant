@@ -1,0 +1,19 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Datasets
+data/
+
+# Python Cache & Bytecode
+**/__pycache__/
+*.py[cod]
+
+# System/Tool Caches
+.cache/
+.pytest_cache/
